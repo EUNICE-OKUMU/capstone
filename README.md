@@ -1,2 +1,1 @@
-# capstone
-project
+# ZITECH SHOP APP
